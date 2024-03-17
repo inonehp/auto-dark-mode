@@ -1,4 +1,4 @@
-# Auto Dark Theme and Light Theme mode (article)
+# Auto Dark Theme and Light Theme mode app list (article)
 
 List of application and extensions for auto dark theme and light theme mode. Automatic change of the theme based on the time of day or a custom time.
 
