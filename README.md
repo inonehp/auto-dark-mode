@@ -1,4 +1,4 @@
-# Auto Dark Theme and Light Theme mode (Article, README.md)
+# Auto Dark Theme and Light Theme mode (article)
 List of application and extensions for automatic dark theme and light theme. Automatic change of the theme based on the time of day or a custom time.
 
 If you have Windows, Linux (Gnome DE) and the Firefox browser, then this topic is for you.
