@@ -1,39 +1,44 @@
-# Auto Dark Theme and Light Theme mode (article)
+<!-- README.md v.1.7.2 -->
+  
+![page with a light and dark theme](/img/github-banner-settings.png)  
+  
+# ∷ Home Page and Projects.    
 
-List of application and extensions for auto dark theme and light theme mode. Automatic change of the theme based on the time of day or a custom time.
-
-If you have Windows, Linux (Gnome DE) and the Firefox browser, then this topic is for you.
-
-
-## Windows:
-
-### Auto Dark Mode
-https://apps.microsoft.com/detail/xp8jk4hzbvf435  
-repository  
-https://github.com/AutoDarkMode/Windows-Auto-Night-Mode  
-
-
-## Linux (Ubuntu or Gnome DE):
-
-### Dash to Panel
-https://extensions.gnome.org/extension/1160/dash-to-panel/  
-repository  
-https://github.com/home-sweet-gnome/dash-to-panel  
-
+🏠 Search (redirect), new tab, my start page.  
+🎨 Firefox theme, Geany theme.  
+📁 To-do, typing, games, icons, website templates, ...  
+  
 ---
   
-## Mozilla Firefox:
+📁 ZIP: [main.zip](https://github.com/inonehp/inonehp.pages.dev/archive/refs/heads/main.zip)  
+☕ Donate: [Buy Me a Coffee](https://www.buymeacoffee.com/inonehp)  
+🔗 URL: [inonehp.pages.dev](https://inonehp.pages.dev/)  
+  
+---
+  
+> [!NOTE]
+> - You can find information about other licenses on the "About" page.  
+> - Top resources for creating this site and projects: [MDN Web Docs](https://developer.mozilla.org/), [W3Schools](https://www.w3schools.com/), [Stack Overflow](https://stackoverflow.com/)  
+  
+---
+   
+#### 🏷️ Tags:  
+[#Website](https://github.com/topics/website),
+[#Personal](https://github.com/topics/personal),
+[#Home page](https://github.com/topics/homepage),
+[#Web Dev](https://github.com/topics/webdev),
+[#Web Design](https://github.com/topics/webdesign), 
+[#Projects](https://github.com/topics/projects),
+[#Page](https://github.com/topics/page),
+[#Projects](https://github.com/topics/projects),
+[#Cloudflare Pages](https://github.com/topics/cloudflare-pages),
 
-### automaticDark - Time-Based Theme Changer
-https://addons.mozilla.org/en-US/firefox/addon/automatic-dark/  
-repository  
-https://github.com/skhzhang/time-based-themes  
+  
+[#HTML](https://github.com/topics/HTML),
+[#CSS](https://github.com/topics/css),
+[#JavaScript](https://github.com/topics/javascript),
 
 
-## VSCode:
 
-### Sundial – Automatic night mode and settings switch
 
-https://marketplace.visualstudio.com/items?itemName=muuvmuuv.vscode-sundial  
-repository  
-https://github.com/muuvmuuv/vscode-sundial  
+
