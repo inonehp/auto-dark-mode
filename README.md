@@ -1,4 +1,4 @@
-# Auto Dark Theme and Light Theme mode app list (article)
+# Auto dark theme and auto light theme mode (app list) (article)
 
 List of application and extensions for auto dark theme and light theme mode. Automatic change of the theme based on the time of day or a custom time.
 
@@ -11,11 +11,13 @@ repository
 https://github.com/AutoDarkMode/Windows-Auto-Night-Mode  
 
 ## Linux (Ubuntu or Gnome DE):
-### Dash to Panel  
-https://extensions.gnome.org/extension/1160/dash-to-panel/  
-repository  
-https://github.com/home-sweet-gnome/dash-to-panel  
 
+### Night Theme Switcher  
+https://nightthemeswitcher.romainvigier.fr/  
+https://extensions.gnome.org/extension/2236/night-theme-switcher/  
+repository  
+https://gitlab.com/rmnvgr/nightthemeswitcher-gnome-shell-extension  
+  
 ---
   
 ## Mozilla Firefox:
