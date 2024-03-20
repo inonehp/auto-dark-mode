@@ -1,4 +1,4 @@
-# Auto dark mode and auto light mode for browser and OS
+# Auto dark mode and auto light mode for browser and OS (app list)
 
 List of application and extensions for auto dark theme and light theme mode. Automatic change of the theme based on the time of day or a custom time.
 
